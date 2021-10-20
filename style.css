@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+.wrapper {
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+.navbar {
+    background-color: black;
+    color: white;
+    height: 100%;
+}
+
+.nav-title {
+    padding-left: 15px;
+}
+/* ---Navigation Bar---- */
+
+.header {
+    background-color: white;
+    color: black;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+/* ---Center Column--- */
+.mastercolumn {
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    height: 550px;
+}
+/* --- Column Left --- */
+.col1 {
+    background-color: white;
+    height: 240px;
+    width: 200px;
+    border: solid 3px black;    
+}
+
+.box-left {
+    background-color: white;
+    color: black;
+    height: 230px;
+    text-align: center;
+
+}
+.box-left img {
+    height: 80px;
+    width: 80px;
+    margin-top: 20px;
+}
+
+/* --- Column Right --- */
+
+.col2 {
+    background-color: white;
+    height: 540px;
+    width: 510px;
+}
+
+.box {
+    background-color: white;
+    height: 170px;
+    width: 504px;
+    border: solid 3px black;
+    margin-bottom: 10px;
+    
+}
+
+.name {
+    margin: 10px;
+}
+
+.likes {
+    text-align: right;
+    margin-right: 20px;
+
+}
+
+.status {
+    text-align: center;
+}
+
+.likebutton {
+    background-color: rgb(252, 225, 106);
+    color: black;
+    height: 30px;
+    width: 50px;
+    box-shadow: 3px 3px 3px black;
+    margin-left: 430px;
+    
+
+}
+
+
+
+
+
+
+
+
+
+
+
